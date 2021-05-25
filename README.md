@@ -1,4 +1,4 @@
-# Eth2.0 Test Generators
+# Vap2.0 Test Generators
 
 This repository contains generators that build tests for Eth 2.0 clients. The test files themselves can be found in [ethereum/eth2.0-tests](https://github.com/ethereum/eth2.0-tests/).
 
